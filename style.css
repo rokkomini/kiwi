@@ -14,3 +14,8 @@
 .textarea {
   resize: none;
 }
+
+.cover-image {
+  object-fit: cover;
+  object-position: center;
+}
