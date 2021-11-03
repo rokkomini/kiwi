@@ -1,0 +1,16 @@
+.stars-icon {
+  width: 24px;
+}
+
+.btn.active {
+  font-weight: bold;
+  background-color: transparent;
+}
+
+.btn.active:hover {
+  background-color: #6c757d;
+}
+
+.textarea {
+  resize: none;
+}
